@@ -13,3 +13,9 @@ When you are going to experiment with changes. You work in a branch, but the mai
 How do the diagrams help you visualize the branch structure?
 You can see all the banches grafically.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+There's only one code line. Changes from two branches get fused in one code line.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Automatic process is immediate.
+Cons: Automatic process can generate conflicts

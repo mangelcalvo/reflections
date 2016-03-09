@@ -7,3 +7,9 @@ Staging area is an intermediate step to allocate the resorces that are going to 
 How can you use the staging area to make sure you have one commit per logical change?
 You move to the staging area the files you want to commit. Then you compare the changes, using "git diff --staged" , you are going to commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are going to experiment with changes. You work in a branch, but the main code line can still be used to solve bugs. You, later, can add the experimental changes to the mainstream by merging.
+
+How do the diagrams help you visualize the branch structure?
+You can see all the banches grafically.
+

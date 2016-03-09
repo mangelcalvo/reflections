@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates the initial metadata.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is an intermediate step to allocate the resorces that are going to be committed. It provides granullarity to commit operations. 

@@ -3,3 +3,14 @@ For team playing
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It's the same reason why we prefer to commit manually. We need to control whne the changes are pulled/pushed.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: Use someonelse code without collaborating
+Clone: Use my github repository locally
+Branch: Try new features / solve bugs without modifying the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+To be able to make fast- froward merge ???
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Manual communication with added notes.
